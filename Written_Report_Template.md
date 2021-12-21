@@ -8,7 +8,7 @@ There was a request by Louise to analyze crowdfunding data. She is starting a ne
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-When isolating the theater crowdunfing category, projects that launched in May are the most successful with 66.9% reaching their goal. This is followed by June and July with 65.4% and 63.0% respectively. ![ ](/kickstarter-analysis/Theater_Outcomes_vs_Launch.png)
+When isolating the theater crowdunfing category, projects that launched in May are the most successful with 66.9% reaching their goal. This is followed by June and July with 65.4% and 63.0% respectively. ![ ](/kickstarter-analysis/main/Theater_Outcomes_vs_Launch.png)
 If you look at the subcategory of plays, things change a little bit. June is the most successful month with 70.3% followed by May and March with 68.9% and 68.7% each. Overall for the plays subcategory all months are above 61% success except for December which is only at 48.2%. ![ ](/kickstarter-analysis/Plays_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
